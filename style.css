@@ -25,15 +25,38 @@ img#cb{
 	top: 40px;
 	right: 30px;
 }
-div#text{
-	color: white;
+img#visa{
+	position: absolute;
+	top: 325px;
+	right: 30px;
+	width: 20%;
+	height: 15%;
+	background-color: white;
+	padding: 0.5em;
+	border-radius: 5px;
 }
-h1#number{
+div#text{color: white;}
+h1{
 	text-shadow: black 0.1em 0.1em 0.2em;
 	position: absolute;
+	font-size: 50px;
+}
+h1#number{
 	top: 225px;
 	left: 60px;
-	font-size: 50px;
+}
+h1#mr_mrs{
+	top: 340px;
+	left: 85px;
+}
+h1#name{
+	top: 340px;
+	left: 225px;
+}
+h1#date{
+	top: 315px;
+	left: 425px;
+	font-size: 40px;
 }
 .triangle {
 	position: absolute;
